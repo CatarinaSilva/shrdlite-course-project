@@ -129,9 +129,9 @@ The project is entirely coded in Typescript and fully working in the html view.
 - Put all boxes on the floor and take a yellow object.
 - Put a black ball left of all objects.
 
-INITIAL PROJECT:
 
-The Shrdlite course project
+
+INITIAL PROJECT: The Shrdlite course project
 ============================
 
 Shrdlite is a programming project in Artificial Intelligence, a course given 
